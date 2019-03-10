@@ -1,9 +1,9 @@
 
 svg{
 	
-	margin-left:43%;
-	height:100px;
-	width:500px;
+	margin-left:42%;
+	height:110px;
+	width:1000px;
 
 }
 nav#menu ul li{
@@ -24,6 +24,8 @@ nav#menu ul{
   list-style-type: none;   
 }
 h1{
+	 margin-top:6%;
+	text-align:center;
 	 margin-left:10%;
 	 margin-right:10%
 	
@@ -44,8 +46,25 @@ p{
 	stroke-width:3;
   stroke-dasharray: 1000;
   stroke-dashoffset: 1000;
-animation: dash 5s linear alternate infinite;
+animation: dash 10s linear alternate infinite;
 
+}
+
+.vine{
+	
+		fill:none;
+	stroke:green;
+	stroke-width:2;
+	
+}
+
+.line{
+		fill:none;
+	stroke:red;
+	stroke-width:1.54;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+animation: dash 10s linear alternate infinite;
 }
 
 @keyframes dash {
