@@ -1,26 +1,31 @@
 
 svg{
 	
-	margin-left:42%;
-	height:110px;
-	width:1000px;
+	margin-left:43%;
+	height:100px;
+	width:150px;
 
 }
 nav#menu ul li{
 	float: left;
-	  
+	  border: 2px solid green;
+	  margin:2%;
+	 
 }
 
 nav#menu ul li a{
 
 text-decoration: none;
-
+color:black;
+font-family: Georgia;
+  font-style: italic;
 padding: 14px 16px;
 
 }
 
 nav#menu ul{
-  margin-left:36%;
+  margin-left:34%;
+  margin-right:38%;
   list-style-type: none;   
 }
 h1{
@@ -55,6 +60,7 @@ animation: dash 10s linear alternate infinite;
 		fill:none;
 	stroke:green;
 	stroke-width:2;
+
 	
 }
 
