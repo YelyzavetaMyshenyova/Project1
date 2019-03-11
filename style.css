@@ -27,10 +27,14 @@ svg{
 	height:100px;
 	width:150px;
 }
+
 nav#menu ul li{
-	float: left;
-	  border: 2px solid green;
-	  margin:2%;
+   float: left;
+    border: 2px solid green;
+    margin-right: 3%;
+    margin-left: 0%;
+	 
+}
 	 
 }
 
