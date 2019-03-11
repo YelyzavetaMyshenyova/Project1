@@ -40,6 +40,7 @@
 	font-family: 'Alike', serif;
 	margin-left:16%;
 	 margin-right:16%
+	font-size: 110%;
 }
 
 img{
@@ -80,29 +81,32 @@ nav#menu ul{
   list-style-type: none;   
 }
 h1{
-	font-family 'Alike', serif;
+	 font-family: 'Alike', serif;
 	 margin-top:6%;
 	text-align:center;
 	 margin-left:10%;
 	 margin-right:10%
-	
+	    font-size: 110%;
 }
 h2{
 	font-family: 'Alike', serif;
 	 margin-left:16%;
 	 margin-right:16%
+		     font-size: 110%;
 }
 
 h3{
 	font-family: 'Alike', serif;
 	margin-left:16%;
 	 margin-right:16%;
+	    font-size: 110%;
 	
 }
 p{
 	font-family: 'Alike', serif;
 	 margin-left:16%;
 	 margin-right:16%;
+	    font-size: 110%;
 	
 }
 
