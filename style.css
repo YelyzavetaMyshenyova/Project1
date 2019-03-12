@@ -9,7 +9,7 @@
 }
 .lbordertop{
     float: left;
-    margin-left: -51.6%;
+    margin-left: -51.1%;
     margin-right: 0%;
     margin-top: 0.7%;
     fill: none;
@@ -23,9 +23,9 @@
 }
 .rbordertop{
     float: right;
-    margin-right: 7.9%;
+    margin-right: 8.4%;
     margin-left: 0%;
-    margin-top: -0.92%;
+    margin-top: 0.7%;
     fill: none;
     stroke: green;
     stroke-width: 4;
