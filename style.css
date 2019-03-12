@@ -83,11 +83,11 @@ nav#menu ul{
 }
 h1{
 	 font-family: 'Alike', serif;
-	 margin-top:6%;
+	margin-right:10%;
+	margin-left:10%;
+	margin-top:6%;
 	text-align:center;
-	 margin-left:10%;
-	 margin-right:10%
-	    font-size: 110%;
+	font-size: 110%;
 }
 h2{
 	font-family: 'Alike', serif;
