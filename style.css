@@ -1,4 +1,4 @@
-otherl{
+.otherl{
 	float: left;
     margin-left: -51.6%;
     margin-right: 0%;
@@ -13,7 +13,7 @@ otherl{
     animation: dash 10s linear alternate infinite;
 }
 
-otherr{
+.otherr{
 	    float: right;
     margin-right: 7.9%;
     margin-left: 0%;
