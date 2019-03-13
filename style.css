@@ -185,6 +185,10 @@ animation: dash 10s linear alternate infinite;
 animation: dash 10s linear alternate infinite;
 }
 
+iframe{
+	    margin-left: 16%;
+}
+
 @keyframes dash {
   from {
     stroke-dashoffset: 1000;
