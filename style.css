@@ -1,3 +1,32 @@
+otherl{
+	float: left;
+    margin-left: -51.6%;
+    margin-right: 0%;
+    margin-top: 0.7%;
+    fill: none;
+    stroke: green;
+    stroke-width: 4;
+    height: 4px;
+    width: 490px;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 0;
+    animation: dash 10s linear alternate infinite;
+}
+
+otherr{
+	    float: right;
+    margin-right: 7.9%;
+    margin-left: 0%;
+    margin-top: -0.93%;
+    fill: none;
+    stroke: green;
+    stroke-width: 4;
+    height: 4px;
+    width: 490px;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 0;
+    animation: dash 10s linear alternate infinite;
+}
 .pics{
     margin-left: auto;
     margin-right: auto;
