@@ -75,10 +75,10 @@
 }
 
 .move{
-	font-family: 'Alike', serif;
-	margin-left:16%;
-	 margin-right:16%
-	font-size: 110%;
+font-family: 'Alike', serif;
+margin-left:16%;
+margin-right:16%;
+font-size: 110%;
 }
 
 img{
@@ -120,7 +120,7 @@ nav#menu ul{
   list-style-type: none;   
 }
 h1{
-	 font-family: 'Alike', serif;
+	font-family: 'Alike', serif;
 	margin-right:7%;
 	margin-left:7%;
 	margin-top:6%;
@@ -128,17 +128,17 @@ h1{
 }
 
 .top{
-	margin-top:6%;
-	font-family: 'Alike', serif;
+	 margin-top:6%;
+	 font-family: 'Alike', serif;
 	 margin-left:16%;
-	 margin-right:16%
-        font-size: 110%;
+	 margin-right:16%;
+         font-size: 110%;
 }
 
 h2{
 	font-family: 'Alike', serif;
 	 margin-left:16%;
-	 margin-right:16%
+	 margin-right:16%;
         font-size: 110%;
 }
 
