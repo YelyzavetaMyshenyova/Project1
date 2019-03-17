@@ -75,24 +75,24 @@
 }
 
 .move{
-font-family: 'Alike', serif;
-margin-left:16%;
-margin-right:16%;
-font-size: 110%;
+    font-family: 'Alike', serif;
+    margin-left:16%;
+    margin-right:16%;
+    font-size: 110%;
 }
 
 img{
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
-  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    display: block;
 	
 }
 
 svg{
-	margin-left:46.8%;
-	height:100px;
-	width:150px;
+    margin-left:46.8%;
+    height:100px;
+    width:150px;
 }
 
 nav#menu ul li{
@@ -105,12 +105,12 @@ nav#menu ul li{
 
 nav#menu ul li a{
 
-text-decoration: none;
-color:black;
-font-family: 'Alike', serif;
-  font-style: italic;
-padding: 14px 16px;
-font-size: 110%;
+    text-decoration: none;
+    color:black;
+    font-family: 'Alike', serif;
+    font-style: italic;
+    padding: 14px 16px;
+    font-size: 110%;
 
 }
 
@@ -119,12 +119,19 @@ nav#menu ul{
   margin-right:38%;
   list-style-type: none;   
 }
+
+resumeintro{
+    font-family: Georgia;
+    margin-left:16%;
+    font-size: 150%;
+	{
+		
 h1{
-	font-family: 'Alike', serif;
-	margin-right:7%;
-	margin-left:7%;
-	margin-top:6%;
-	text-align:center;
+    font-family: 'Alike', serif;
+    margin-right:7%;
+    margin-left:7%;
+    margin-top:6%;
+    text-align:center;
 }
 
 .top{
