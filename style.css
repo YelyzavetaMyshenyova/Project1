@@ -1,127 +1,127 @@
 .download{
-margin-left:16%;
-margin-bottom:3%;
+  margin-left:16%;
+  margin-bottom:3%;
 }
 
 .resumeintro{
-    font-family: Georgia;
-    margin-top: 68px;
-    margin-left: 240px;
-    font-size: 150%;
+  font-family: Georgia;
+  margin-top: 68px;
+  margin-left: 240px;
+  font-size: 150%;
 }
 
 .otherl{
-	float: left;
-    margin-left: -53%;
-    margin-right: 0%;
-    margin-top: 0.7%;
-    fill: none;
-    stroke: green;
-    stroke-width: 4;
-    height: 4px;
-    width: 490px;
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 0;
-    animation: dash 10s linear alternate infinite;
+  float: left;
+  margin-left: -53%;
+  margin-right: 0%;
+  margin-top: 0.7%;
+  fill: none;
+  stroke: green;
+  stroke-width: 4;
+  height: 4px;
+  width: 490px;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 0;
+  animation: dash 10s linear alternate infinite;
 }
 
 .otherr{
-	    float: right;
-    margin-right: 6.6%;
-    margin-left: 0%;
-    margin-top: -0.93%;
-    fill: none;
-    stroke: green;
-    stroke-width: 4;
-    height: 4px;
-    width: 490px;
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 0;
-    animation: dash 10s linear alternate infinite;
+	  float: right;
+  margin-right: 6.6%;
+  margin-left: 0%;
+  margin-top: -0.93%;
+  fill: none;
+  stroke: green;
+  stroke-width: 4;
+  height: 4px;
+  width: 490px;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 0;
+  animation: dash 10s linear alternate infinite;
 }
 .pics{
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
-    display: block;
-    margin-top: 5%;
-    margin-bottom: 4%;
-    transform: rotate(270deg);	
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  display: block;
+  margin-top: 5%;
+  margin-bottom: 4%;
+  transform: rotate(270deg);	
 }
 
 .resumeimg{
-    margin-left: 300px;
-    width: 900px;
-    display: block;
-    margin-top: 25px;
-    margin-bottom: 30px;
+  margin-left: 300px;
+  width: 900px;
+  display: block;
+  margin-top: 25px;
+  margin-bottom: 30px;
 }
 .lbordertop{
-    float: left;
-    margin-left: -52.9%;
-    margin-right: 0%;
-    margin-top: 0.7%;
-    fill: none;
-    stroke: green;
-    stroke-width: 4;
-    height: 4px;
-    width: 490px;
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 0;
-    animation: dash 10s linear alternate infinite;
+  float: left;
+  margin-left: -52.9%;
+  margin-right: 0%;
+  margin-top: 0.7%;
+  fill: none;
+  stroke: green;
+  stroke-width: 4;
+  height: 4px;
+  width: 490px;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 0;
+  animation: dash 10s linear alternate infinite;
 }
 .rbordertop{
-    float: right;
-    margin-right: 6.7%;
-    margin-left: 0%;
-    margin-top: -0.93%;
-    fill: none;
-    stroke: green;
-    stroke-width: 4;
-    height: 4px;
-    width: 490px;
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 0;
-    animation: dash 10s linear alternate infinite;
+  float: right;
+  margin-right: 6.7%;
+  margin-left: 0%;
+  margin-top: -0.93%;
+  fill: none;
+  stroke: green;
+  stroke-width: 4;
+  height: 4px;
+  width: 490px;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 0;
+  animation: dash 10s linear alternate infinite;
 }
 
 .move{
-    font-family: 'Alike', serif;
-    margin-left:16%;
-    margin-right:16%;
-    font-size: 110%;
+  font-family: 'Alike', serif;
+  margin-left:16%;
+  margin-right:16%;
+  font-size: 110%;
 }
 
 img{
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
-    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  display: block;
 	
 }
 
 svg{
-    margin-left:46.8%;
-    height:100px;
-    width:150px;
+  margin-left:46.8%;
+  height:100px;
+  width:150px;
 }
 
 nav#menu ul li{
    float: left;
-    border: 2px solid green;
-    margin-right: 2%;
-    margin-left: 0.9%;
+  border: 2px solid green;
+  margin-right: 2%;
+  margin-left: 0.9%;
 	 
 }
 
 nav#menu ul li a{
 
-    text-decoration: none;
-    color:black;
-    font-family: 'Alike', serif;
-    font-style: italic;
-    padding: 14px 16px;
-    font-size: 110%;
+  text-decoration: none;
+  color:black;
+  font-family: 'Alike', serif;
+  font-style: italic;
+  padding: 14px 16px;
+  font-size: 110%;
 
 }
 
@@ -133,45 +133,45 @@ nav#menu ul{
 
 		
 h1{
-    font-family: 'Alike', serif;
-    margin-right:7%;
-    margin-left:7%;
-    margin-top:6%;
-    text-align:center;
+  font-family: 'Alike', serif;
+  margin-right:7%;
+  margin-left:7%;
+  margin-top:6%;
+  text-align:center;
 }
 
 .top{
-	 margin-top:6%;
-	 font-family: 'Alike', serif;
-	 margin-left:16%;
-	 margin-right:16%;
-         font-size: 110%;
+  margin-top:6%;
+  font-family: 'Alike', serif;
+  margin-left:16%;
+  margin-right:16%;
+  font-size: 110%;
 }
 
 h2{
-	font-family: 'Alike', serif;
-	 margin-left:16%;
-	 margin-right:16%;
-        font-size: 110%;
+  font-family: 'Alike', serif;
+  margin-left:16%;
+  margin-right:16%;
+  font-size: 110%;
 }
 
 h3{
-	font-family: 'Alike', serif;
-	margin-left:16%;
-	 margin-right:16%;
-	    font-size: 110%;
+  font-family: 'Alike', serif;
+  margin-left:16%;
+  margin-right:16%;
+  font-size: 110%;
 	
 }
 p{
-	font-family: 'Alike', serif;
-	 margin-left:16%;
-	 margin-right:16%;
-	    font-size: 110%;
+  font-family: 'Alike', serif;
+  margin-left:16%;
+  margin-right:16%;
+  font-size: 110%;
 	
 }
 
 .path {
-	fill:none;
+  fill:none;
 	stroke:red;
 	stroke-width:3;
   stroke-dasharray: 1000;
@@ -182,31 +182,31 @@ animation: dash 10s linear alternate infinite;
 
 .vine{
 	
-		fill:none;
-	stroke:green;
-	stroke-width:2;
+  fill:none;
+  stroke:green;
+  stroke-width:2;
 
 	
 }
 
 .line{
-		fill:none;
-	stroke:red;
-	stroke-width:1.54;
+  fill:none;
+  stroke:red;
+  stroke-width:1.54;
   stroke-dasharray: 1000;
   stroke-dashoffset: 1000;
-animation: dash 10s linear alternate infinite;
+  animation: dash 10s linear alternate infinite;
 }
 
 iframe{
-	    margin-left: 16%;
+  margin-left: 16%;
 }
 
 @keyframes dash {
   from {
-    stroke-dashoffset: 1000;
+  stroke-dashoffset: 1000;
   }
   to {
-    stroke-dashoffset: 0;
+  stroke-dashoffset: 0;
   }
 }
