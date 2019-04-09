@@ -92,8 +92,6 @@
 
 .move{
   font-family: 'Alike', serif;
-  margin-left:16%;
-  margin-right:16%;
   font-size: 110%;
 }
 
@@ -148,22 +146,16 @@ h1{
 .top{
   margin-top:6%;
   font-family: 'Alike', serif;
-  margin-left:16%;
-  margin-right:16%;
   font-size: 110%;
 }
 
 h2{
   font-family: 'Alike', serif;
-  margin-left:16%;
-  margin-right:16%;
   font-size: 110%;
 }
 
 h3{
   font-family: 'Alike', serif;
-  margin-left:16%;
-  margin-right:16%;
   font-size: 110%;
 	
 }
@@ -177,11 +169,11 @@ p{
 
 .path {
   fill:none;
-	stroke:red;
-	stroke-width:3;
+  stroke:red;
+  stroke-width:3;
   stroke-dasharray: 1000;
   stroke-dashoffset: 1000;
-animation: dash 10s linear alternate infinite;
+  animation: dash 10s linear alternate infinite;
 
 }
 
@@ -189,9 +181,7 @@ animation: dash 10s linear alternate infinite;
 	
   fill:none;
   stroke:green;
-  stroke-width:2;
-
-	
+  stroke-width:2;	
 }
 
 .line{
@@ -201,10 +191,6 @@ animation: dash 10s linear alternate infinite;
   stroke-dasharray: 1000;
   stroke-dashoffset: 1000;
   animation: dash 10s linear alternate infinite;
-}
-
-iframe{
-  margin-left: 16%;
 }
 
 @keyframes dash {
