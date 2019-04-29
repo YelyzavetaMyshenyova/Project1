@@ -1,4 +1,29 @@
 
+@media screen and (max-width: 1500 px){
+	 .otherl
+    {
+        display: none;
+    }
+	
+		 .otherr
+    {
+        display: none;
+    }
+	
+		 .lbordertop
+    {
+        display: none;
+    }
+	
+		 .rbordertop
+    {
+        display: none;
+    }
+	
+	
+}
+
+
 .intromap{
   margin-top: 6%;
   margin-left: 4%;
