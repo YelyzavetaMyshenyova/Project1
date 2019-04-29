@@ -97,7 +97,7 @@
   margin-top: 25px;
   margin-bottom: 30px;
 }
-.lbordertop{
+#lbordertop{
   float: left;
   margin-left: -58.9%;
   margin-right: 0%;
@@ -111,7 +111,7 @@
   stroke-dashoffset: 0;
   animation: dash 10s linear alternate infinite;
 }
-.rbordertop{
+#rbordertop{
   float: right;
   margin-right: 3.4%;
   margin-left: 0%;
