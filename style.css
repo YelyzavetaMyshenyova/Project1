@@ -1,5 +1,8 @@
 
-@media screen and (max-width: 1500 px){
+@media only screen and (max-width: 1500px) {
+ nav{
+ 	margin-left:30%;
+ }
 	 .otherl
     {
         display: none;
@@ -20,9 +23,8 @@
         display: none;
     }
 	
-	
-}
 
+}
 
 .intromap{
   margin-top: 6%;
