@@ -7,8 +7,11 @@
  }
 	
 	.top{
-		margin-top:13%;
-	}
+  margin-top:13%;
+  font-family: 'Alike', serif;
+  font-size: 110%;
+}
+
 	 .otherl
     {
         display: none;
